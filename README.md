@@ -6,7 +6,7 @@ This project is part of my journey through the **freeCodeCamp Responsive Web Des
 
 The Technical Documentation Page project is designed to present information in a structured and easily navigable format. It includes a main content area, sections with headers, a sticky navigation bar, and responsive design features.
 
-## --> [🔥Live Demo](#)
+## --> [🔥Live Demo](https://anirudha-8.github.io/technical-documentation/)
 
 ## 🚀 User Stories
 
@@ -49,7 +49,7 @@ To view and interact with the Technical Documentation Page project locally, foll
 1. **Clone the Repository**:
 
    ```bash
-   git clone --recurse-submodules <main-repo-url>
+   git clone https://github.com/anirudha-8/technical-documentation.git
    ```
 
 2. **Navigate to the Project Folder**:
